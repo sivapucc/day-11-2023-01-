@@ -1,0 +1,156 @@
+body{
+    background-color:dimgrey;
+}
+.container{
+    height: auto;
+    background-color: aliceblue;
+    
+    border-left: solid 2px;
+    border-right: solid 2px;
+}
+.header{
+    height: 150px;
+    background-color:aqua;
+    display: flex;
+    justify-content: center;
+    position: relative;
+}
+img{
+    border-radius: 90px;
+    width: 150px;
+    height: 150px;
+    border: dotted yellow;
+}
+.header1{
+    height: 30px;
+    background-color:gray;
+}
+.header2{
+    height: 30px;
+    background-color:aqua;
+}
+.name{
+    position: absolute;
+    background-color: yellow;
+    padding: 20px;
+    left: 570px;
+    top:120px;
+    z-index: 1;
+    border-radius: 8px;
+    font-size: 20px;
+}
+.address{
+    text-align: center;
+    border-bottom: gray solid 2px;
+   
+}
+
+.verticle{
+    border-left: 6px solid gray;
+    height: auto;
+    margin-top: 40px;
+    
+}
+
+.box{
+    height: auto;
+}
+
+i{
+    border:2px dotted yellow;
+    border-radius: 100%;
+    background-color: black;
+}
+.profile{
+    margin: 20px;
+}
+.skills{
+    margin: 20px;
+}
+.work{
+    margin: 20px;
+}
+.work2{
+    margin-top: 20px;
+    margin-left: 10px;
+}
+.text-profile{
+    font-weight: bold;
+    font-size:  30px;
+}
+p{
+    margin: 20px;
+}
+.text-skills{
+    font-weight: bold;
+    font-size:  30px;
+    
+}
+.text-work{
+    font-weight: bold;
+    font-size:  30px;
+}
+.text-work1{
+    font-weight: bold;
+    font-size:  30px;
+    
+}
+.tech-skill{
+    margin-left: 200px;
+    font-weight: bold;
+}
+.js{
+    margin-left: 50px;
+}
+
+.lb-js{
+    margin: 20px;       
+}
+.r-js{
+    margin-left: 150px;       
+}
+.r-css{
+    margin-left: 190px;
+}
+.r-html{
+    margin-left: 175px;
+}
+.r-re{
+    margin-left: 180px;
+}
+.r-red{
+    margin-left: 175px;
+}
+.r-m{
+    margin-left: 165px;
+}
+.r-d{
+    margin-left: 130px;
+}
+.list-item{
+    margin-top: 20px;
+    line-height: 0;
+}
+
+.r-ps{
+    margin-left: 68px;
+}
+.r-r{
+    margin-left: 129px;
+}
+.r-b{
+    margin-left: 54px;
+}
+.r-e{
+    margin-left: 165px;
+}
+.r-f{
+    margin-left: 130px;
+}
+
+
+
+
+
+
+
